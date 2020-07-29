@@ -1,0 +1,50 @@
+.container-fluid {
+    background-color: #2f3136;
+}
+
+#content {
+    margin: auto;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    height: 770px;
+}
+
+#over-view {
+    background-color: #36393f;
+    margin: auto;
+    height: 740px;
+}
+
+#maxim {
+    color: snow;
+}
+
+#main {
+    background-color: lightgreen;
+    padding-left: 10px;
+}
+
+#details {
+    margin-left: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#detail-1 {
+    background-color: darkkhaki;
+}
+
+#detail-2 {
+    background-color: skyblue;
+}
+
+#footer {
+    background-color: lightslategray;
+}
+
+.d-inline-flex {
+    background-color: skyblue;
+    width: 100%;
+    justify-content: center;
+    height: 740px;
+}
