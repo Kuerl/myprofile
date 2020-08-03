@@ -6,7 +6,7 @@
     margin: auto;
     display: grid;
     grid-template-columns: 20% 60% 20%;
-    height: 770px;
+    height: 793px;
 }
 
 #over-view {
@@ -15,8 +15,34 @@
     height: 740px;
 }
 
-#maxim {
+#flex-box {
+    display: flex;
+    list-style-type: none;
     color: snow;
+}
+
+#menus {
+    color: snow;
+}
+
+#menus input {
+    font-family: helvetica;
+    width: 100%;
+    height: 100%;
+    padding: 12px;
+    background-color: #36393f;
+    border: unset;
+    color: snow;
+    text-align: left;
+}
+
+#menus input:hover {
+    background-color: ;
+}
+
+#quote {
+    color: snow;
+    font-family: helvetica;
 }
 
 #main {
