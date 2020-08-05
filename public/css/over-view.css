@@ -1,0 +1,50 @@
+#over-view {
+    display: flex;
+    background-color: #36393f;
+    margin: auto;
+    height: 740px;
+    align-items: center;
+}
+
+#nav-1 {
+    display: flex;
+    height: 56px;
+    justify-content: center;
+    margin: auto;
+}
+
+#nav-1-img {
+    width: 20%;
+}
+
+#nav-1-content {
+    width: 72%;
+    background-color: #7289da;
+    margin: 2px;
+}
+
+#img {
+    width: 100%;
+    margin-top: 2px;
+}
+
+.nav-item {
+    background-color: #7289da;
+    margin: 2px;
+}
+
+.nav-link:link, .nav-link:visited, .nav-link:active {
+  color: white;
+  padding: 14px 25px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+    background-color: #677bc4;
+    border-radius: 5%;
+}
+
+#maxim {
+    color: snow;
+}
